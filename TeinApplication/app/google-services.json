@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273742999352",
+    "project_id": "teinapplication",
+    "storage_bucket": "teinapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273742999352:android:a8f85d8dc7b474b1a15bcd",
+        "android_client_info": {
+          "package_name": "com.fburaky.teinapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273742999352-4u3j1o2u0544e2klk3621gf5ts49avv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizVDDVlanRIvmdtJQZL8tdkm2HVOcndg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273742999352-4u3j1o2u0544e2klk3621gf5ts49avv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

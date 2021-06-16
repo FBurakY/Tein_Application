@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TeinApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="or_use_one_of_your_social_profiles">or use one of your social profiles</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hi_there_nice_to_see_you_again">Hi there Nice to see you again.</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="your_password">Your Password</string>
+    <string name="twitter">Twitter</string>
+    <string name="Api_key">UPUsdGZ62AvsFBxTyGNNrgPqF</string>
+    <string name="Api_Secreat">ecp44C6R5bkyX5TtUbjMCv4MAa7R4ODTIQKsmoEFowdIXsPvVZ</string>
+    <string name="Bearer_token">AAAAAAAAAAAAAAAAAAAAANjPQgEAAAAA1DLumlErYjB1vc1n94unVuRhDf0%3DNfLXEWGiCP0tQBAYqoZ0TxoHgEXifkSKoh0TwRUE4qCtW0l05M</string>
+    <string name="facebook">Facebook</string>
+</resources>

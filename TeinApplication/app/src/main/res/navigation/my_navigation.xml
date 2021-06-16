@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/my_navigation"
+    app:startDestination="@id/inFragment">
+
+    <fragment
+        android:id="@+id/inFragment"
+        android:name="com.fburaky.teinapplication.InFragment"
+        android:label="InFragment" >
+        <action
+            android:id="@+id/action_inFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+        <action
+            android:id="@+id/action_inFragment_to_upFragment"
+            app:destination="@id/upFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/upFragment"
+        android:name="com.fburaky.teinapplication.UpFragment"
+        android:label="UpFragment" >
+        <action
+            android:id="@+id/action_upFragment_to_inFragment"
+            app:destination="@id/inFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.fburaky.teinapplication.ProfileFragment"
+        android:label="ProfileFragment" >
+        <action
+            android:id="@+id/action_profileFragment_to_inFragment"
+            app:destination="@id/inFragment" />
+    </fragment>
+</navigation>
